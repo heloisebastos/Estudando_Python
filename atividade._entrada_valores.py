@@ -1,4 +1,4 @@
-
+#atividade sobre laço de repetição
 var = int (input("digite um valor : "))
 
 if var % 3== 0 :

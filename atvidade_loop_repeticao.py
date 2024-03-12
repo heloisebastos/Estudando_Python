@@ -1,4 +1,4 @@
-
+#recebe um valor e verifica se ele é divisivel pela condições impostas 
 var = int (input("digite um valor : "))
 cont = 0
 
